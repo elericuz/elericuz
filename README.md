@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/1438117/89197135-e13ac500-d570-11ea-8e58-1b1fb0daaa07.png)
+<img src="https://user-images.githubusercontent.com/1438117/89197135-e13ac500-d570-11ea-8e58-1b1fb0daaa07.png" width="100%">
 
 ### Hi there 👋. I'm Eric, a passionate backend developer from Peru
 <p align="center">
