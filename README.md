@@ -14,7 +14,7 @@
 - 💬 Ask me about Kotlin/Android, PHP, Docker, Git, Linux
 - 📫 How to reach me: [@elericuz](https://www.twitter.com/elericuz)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm also a photographer but for hobby
+- ⚡ Fun fact: I'm also a photographer but just for fun
 
 <h3>My stats and progress</h3>
 
