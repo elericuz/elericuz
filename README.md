@@ -16,8 +16,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a photographer but for hobby
 
-<h3>Here is some of my stats and progress</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
+<h3>My stats and progress</h3>
 
 <!--START_SECTION:waka-->
 ```text
@@ -28,6 +27,8 @@ Ruby         1 min           ██░░░░░░░░░░░░░░░
 JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 <!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
 
 <h3>Skills</h3>
 <ul>
