@@ -5,8 +5,7 @@
 <a href="https://twitter.com/@elericuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@elericuz" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ericvaleramiller" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ericvaleramiller" height="20" width="20" /></a>
 <a href="https://instagram.com/elericuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elericuz" height="20" width="20" /></a>
-</p> 
-
+</p>
 
 - 🔭 I’m currently working on [Threader](https://play.google.com/store/apps/details?id=com.ppf.threader)
 - 🌱 I’m currently learning how to create apps on Swift
@@ -18,7 +17,6 @@
 - ⚡ Fun fact: I'm also a photographer but for hobby
 
 <h3>Skills</h3>
-<p align="left">
 <ul>
 <li>PHP, Kotlin, Ruby</li>
 <li>MySQL, Mongo, Redis</li>
@@ -28,15 +26,10 @@
 <li>Scrum</li>
 <li>Self Teaching</li>
 </ul>
-</p>
 
 <h3>Here is some of my stats and progress</h3>
-<table>
-<tr>
-<td>
 <img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
-</td>
-<td>
+
 <!--START_SECTION:waka-->
 ```text
 Swift        8 mins          █████████████░░░░░░░░░░░░   54.80 % 
@@ -46,9 +39,6 @@ Ruby         1 min           ██░░░░░░░░░░░░░░░
 JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 <!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
