@@ -16,17 +16,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a photographer but for hobby
 
-<h3>Skills</h3>
-<ul>
-<li>PHP, Kotlin, Ruby</li>
-<li>MySQL, Mongo, Redis</li>
-<li>Firebase</li>
-<li>Docker</li>
-<li>Linux / Bash scripts</li>
-<li>Scrum</li>
-<li>Self Teaching</li>
-</ul>
-
 <h3>Here is some of my stats and progress</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
 
@@ -39,6 +28,17 @@ Ruby         1 min           ██░░░░░░░░░░░░░░░
 JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 <!--END_SECTION:waka-->
+
+<h3>Skills</h3>
+<ul>
+<li>PHP, Kotlin, Ruby</li>
+<li>MySQL, Mongo, Redis</li>
+<li>Firebase</li>
+<li>Docker</li>
+<li>Linux / Bash scripts</li>
+<li>Scrum</li>
+<li>Self Teaching</li>
+</ul>
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
