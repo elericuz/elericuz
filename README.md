@@ -20,8 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   7 mins          ████████████▓░░░░░░░░░░░░   50.13 % 
-XML      7 mins          ████████████▒░░░░░░░░░░░░   49.87 % 
+Kotlin   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
