@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ```text
 Kotlin   4 hrs 39 mins   ███████████████████████▓░   95.23 % 
-JSON     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 <!--END_SECTION:waka-->
 
