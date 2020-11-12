@@ -20,9 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   3 hrs 54 mins   ██████████████████████░░░   87.89 % 
-XML      26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+
 ```
 <!--END_SECTION:waka-->
 
