@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Kotlin   2 mins          █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
