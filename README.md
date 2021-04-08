@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON    13 mins         ████████████████████████▒   97.99 % 
+
 ```
 <!--END_SECTION:waka-->
 
