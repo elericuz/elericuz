@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    15 mins         ████████████████████████░   95.91 % 
+Ruby         2 hrs 39 mins   █████████████████████████   99.58 % 
 ```
 <!--END_SECTION:waka-->
 
