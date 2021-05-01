@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         2 hrs 23 mins   █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
