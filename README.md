@@ -20,7 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker       5 mins          ██████████████████████░░░   87.75 % 
 ```
 <!--END_SECTION:waka-->
 
