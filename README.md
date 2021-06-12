@@ -20,7 +20,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          1 hr 40 mins    ████████████▒░░░░░░░░░░░░   49.06 % 
+YAML         55 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 % 
+JSON         44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
