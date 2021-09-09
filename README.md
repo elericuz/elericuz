@@ -20,10 +20,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   56 mins         ████████████████░░░░░░░░░   63.66 % 
-Other        18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+
 ```
 <!--END_SECTION:waka-->
 
