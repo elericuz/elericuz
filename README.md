@@ -30,6 +30,9 @@ Groovy       23 mins         ▒░░░░░░░░░░░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
 
+![](https://github.com/elericuz/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/elericuz/github-stats/blob/master/generated/languages.svg)
+
 <h3>Skills</h3>
 <ul>
 <li>PHP, Kotlin, Ruby</li>
