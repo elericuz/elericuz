@@ -19,12 +19,16 @@
 <h3>My stats and progress</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-Kotlin   8 hrs 24 mins   ██████████████████████▒░░   88.78 % 
-Java     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-XML      28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Groovy   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Kotlin       5 hrs 55 mins   ███████████████████████░░   91.91 %
+JavaScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Java         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CLASS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=elericuz&show_icons=true" alt="elericuz" />
