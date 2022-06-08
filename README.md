@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   35 mins         █████████████████████████   99.70 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Kotlin   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
