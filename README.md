@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   25 mins         █████████████████████████   100.00 %
+Kotlin   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
