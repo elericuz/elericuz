@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 50 mins    ██████████████▒░░░░░░░░░░   57.80 %
-Kotlin       1 hr 14 mins    █████████▓░░░░░░░░░░░░░░░   38.92 %
-XML          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   1 hr 47 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
