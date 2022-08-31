@@ -21,12 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             2 hrs 12 mins   ███████████████████░░░░░░   75.56 %
-XML              19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Properties       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Groovy           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Kotlin           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
