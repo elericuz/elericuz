@@ -21,9 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         53 mins         ████████████████████████░   96.17 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
