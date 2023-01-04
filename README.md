@@ -21,7 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Docker       57 mins         ███████████░░░░░░░░░░░░░░   43.44 %
+YAML         55 mins         ██████████▓░░░░░░░░░░░░░░   42.24 %
+Ruby         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
