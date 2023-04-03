@@ -21,10 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 mins         ████████████████▒░░░░░░░░   64.93 %
-EJS          3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.54 %
-Swift        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
