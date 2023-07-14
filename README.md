@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift            9 hrs 39 mins   ███████████████████▒░░░░░   76.69 %
-JavaScript       2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Other            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Swift            11 hrs 22 mins  ███████████████████▓░░░░░   78.33 %
+JavaScript       2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Other            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
