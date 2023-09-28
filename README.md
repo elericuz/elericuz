@@ -21,9 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        3 hrs 43 mins   ███████████████████░░░░░░   75.61 %
-JavaScript   1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Swift        3 hrs 51 mins   ███████████████████░░░░░░   76.24 %
+JavaScript   1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
