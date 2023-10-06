@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   1 hr 35 mins    ████████████████████████▓   98.93 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Swift   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
