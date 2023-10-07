@@ -21,7 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   0 secs          █████████████████████████   100.00 %
+Swift        0 secs          ████████████████████░░░░░   80.21 %
+JavaScript   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.79 %
 ```
 
 <!--END_SECTION:waka-->
