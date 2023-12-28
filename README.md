@@ -21,9 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift      47 mins         ████████████████░░░░░░░░░   63.97 %
-Markdown   21 mins         ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Other      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
