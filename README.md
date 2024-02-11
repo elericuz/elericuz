@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    29 mins         ███████████████░░░░░░░░░░   60.38 %
-Kotlin   19 mins         ██████████░░░░░░░░░░░░░░░   39.62 %
+Kotlin   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
