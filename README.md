@@ -21,7 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   12 mins         ███████████▓░░░░░░░░░░░░░   46.63 %
+JavaScript   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+EJS          6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
