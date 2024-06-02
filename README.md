@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   10 mins         ████████████████████████▓   99.15 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
