@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       42 hrs 19 mins  ████████████████████▓░░░░   82.13 %
-EJS              4 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-textmate         2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JSON             1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-GitIgnore file   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript       46 hrs 3 mins   ████████████████████▓░░░░   83.13 %
+EJS              4 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+textmate         2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+JSON             1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
