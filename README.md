@@ -7,7 +7,7 @@
 <a href="https://instagram.com/elericuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elericuz" height="20" width="20" /></a>
 </p>
 
-- 🔭 I’m currently working on <b>Golg Share App</b> for <b>PastPresentFuture</b>
+- 🔭 I’m currently working on <b>Golf Share App</b> for <b>PastPresentFuture</b>
 - 🌱 I’m currently working by the most with SwiftUI and NodeJs+Express
 - 👯 I’m looking to collaborate on projects related with SwiftUI, Kotlin, NodeJs, PHP or Ruby
 - 🤔 I’m looking for help with design and frontend
