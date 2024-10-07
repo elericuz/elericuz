@@ -7,12 +7,13 @@
 <a href="https://instagram.com/elericuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elericuz" height="20" width="20" /></a>
 </p>
 
-- 🔭 I’m currently working on [Threader](https://play.google.com/store/apps/details?id=com.ppf.threader)
-- 🌱 I’m currently learning how to create apps on Swift
-- 👯 I’m looking to collaborate on projects related with Kotlin, PHP or Ruby
+- 🔭 I’m currently working on <b>Golg Share App</b> for <b>PastPresentFuture</b>
+- 🌱 I’m currently working by the most with SwiftUI and NodeJs+Express
+- 👯 I’m looking to collaborate on projects related with SwiftUI, Kotlin, NodeJs, PHP or Ruby
 - 🤔 I’m looking for help with design and frontend
-- 💬 Ask me about Kotlin/Android, PHP, Docker, Git, Linux
+- 💬 Ask me about SwiftUI, Kotlin, PHP, Docker, Git, Linux
 - 📫 How to reach me: [@elericuz](https://www.twitter.com/elericuz)
+- 📫 I'm a passionate software developer at [Iteraciona](https://www.iteraciona.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a photographer but just for fun
 
@@ -37,8 +38,9 @@ HTML               33 mins         ▒░░░░░░░░░░░░░░
 
 <h3>Skills</h3>
 <ul>
-<li>PHP, Kotlin, Ruby</li>
-<li>MySQL, Mongo, Redis</li>
+<li>SwiftUI, Kotlin</li>
+<li>NodeJs, Express, PHP, Ruby</li>
+<li>Mongo, MySQL, Redis</li>
 <li>Firebase</li>
 <li>Docker</li>
 <li>Linux / Bash scripts</li>
@@ -47,12 +49,14 @@ HTML               33 mins         ▒░░░░░░░░░░░░░░
 </ul>
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="SwiftUI" width="30" height="30" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></p><p align="center">
 </p>
