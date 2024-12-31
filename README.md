@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 28 December 2024
+From: 31 July 2020 - To: 29 December 2024
 
-Total Time: 1,798 hrs 20 mins
+Total Time: 1,800 hrs 24 mins
 
-JavaScript         573 hrs 29 mins ███████▓░░░░░░░░░░░░░░░░░   31.22 %
-Swift              526 hrs 18 mins ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Kotlin             268 hrs         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-EJS                196 hrs 30 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-XML                55 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JavaScript         575 hrs 33 mins ███████▓░░░░░░░░░░░░░░░░░   31.30 %
+Swift              526 hrs 18 mins ███████░░░░░░░░░░░░░░░░░░   28.62 %
+Kotlin             268 hrs         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+EJS                196 hrs 31 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+XML                55 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
