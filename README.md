@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 20 April 2025
+From: 31 July 2020 - To: 21 April 2025
 
-Total Time: 2,122 hrs 6 mins
+Total Time: 2,123 hrs 11 mins
 
-Swift              742 hrs 56 mins ████████▓░░░░░░░░░░░░░░░░   34.11 %
-JavaScript         633 hrs 23 mins ███████▒░░░░░░░░░░░░░░░░░   29.08 %
-Kotlin             268 hrs         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-EJS                204 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-XML                56 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Swift              743 hrs 49 mins ████████▓░░░░░░░░░░░░░░░░   34.13 %
+JavaScript         633 hrs 23 mins ███████▒░░░░░░░░░░░░░░░░░   29.06 %
+Kotlin             268 hrs         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+EJS                204 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Other              56 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
