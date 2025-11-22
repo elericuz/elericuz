@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 19 November 2025
+From: 31 July 2020 - To: 20 November 2025
 
-Total Time: 3,037 hrs 41 mins
+Total Time: 3,038 hrs 7 mins
 
-Swift              1,007 hrs 9 mins████████░░░░░░░░░░░░░░░░░   32.04 %
+Swift              1,007 hrs 33 mins████████░░░░░░░░░░░░░░░░░   32.05 %
 JavaScript         812 hrs 4 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
 Kotlin             363 hrs 36 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
 Svelte             253 hrs 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
