@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 24 May 2026
+From: 31 July 2020 - To: 25 May 2026
 
-Total Time: 3,117 hrs 25 mins
+Total Time: 3,118 hrs 6 mins
 
 Swift              1,017 hrs 28 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-Other              931 hrs 11 mins       █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
-JavaScript         818 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Kotlin             365 hrs 50 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Svelte             270 hrs 12 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Other              931 hrs 25 mins       █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+JavaScript         818 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Kotlin             365 hrs 50 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Svelte             270 hrs 14 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
