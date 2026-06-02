@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 30 May 2026
+From: 31 July 2020 - To: 31 May 2026
 
-Total Time: 3,120 hrs 17 mins
+Total Time: 3,120 hrs 26 mins
 
-Swift              1,017 hrs 28 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Other              947 hrs 30 mins       █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+Swift              1,017 hrs 28 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+Other              948 hrs 40 mins       █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
 JavaScript         819 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.13 %
 Kotlin             365 hrs 50 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Svelte             270 hrs 15 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Svelte             270 hrs 18 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
