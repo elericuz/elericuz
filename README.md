@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2020 - To: 19 July 2026
+From: 31 July 2020 - To: 20 July 2026
 
-Total Time: 3,295 hrs 39 mins
+Total Time: 3,304 hrs 37 mins
 
-Other              1,134 hrs 43 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Swift              1,021 hrs 30 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-JavaScript         855 hrs 21 mins       ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-Kotlin             367 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Svelte             305 hrs 39 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Other              1,135 hrs 41 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+Swift              1,021 hrs 30 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+JavaScript         855 hrs 44 mins       ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Kotlin             367 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Svelte             311 hrs 39 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
 ```
 
 <!--END_SECTION:waka-->
